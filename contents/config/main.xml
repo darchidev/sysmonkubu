@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/ksvg/1.0">
+    <group>
+        <entry name="updateInterval" type="int">
+            <label>Aggiornamento (ms)</label>
+            <default>2000</default>
+        </entry>
+    </group>
+</kcfg>
