@@ -3,7 +3,7 @@
 **Real-time system monitor widget for KDE Plasma 6**
 
 <p align="center">
-  <img src="preview.png" alt="SysMonKubu Preview" width="400"/>
+  <img src="SysMonKubu-Logo.png" alt="SysMonKubu Preview" width="400"/>
 </p>
 
 SysMonKubu is a lightweight Plasma applet that displays real-time system resource usage directly in your panel. It shows CPU, GPU, RAM, and disk usage at a glance with color-coded bars and labels.
