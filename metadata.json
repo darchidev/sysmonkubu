@@ -57,12 +57,14 @@
         "Name[en_GB]": "SysMonKubu",
         "Name[es]": "SysMonKubu",
         "Name[et]": "SysMonKubu",
-        "Name[eu] : "SysMonKubu","Name[fi]": "SysMonKubu",
+        "Name[eu]": "SysMonKubu",
+        "Name[fi]": "SysMonKubu",
         "Name[fr]": "SysMonKubu",
         "Name[gl]": "SysMonKubu",
         "Name[he]": "SysMonKubu",
         "Name[hu]": "SysMonKubu",
-        "Name[it] : "SysMonKubu","Name[ja]": "SysMonKubu",
+        "Name[it]": "SysMonKubu",
+        "Name[ja]": "SysMonKubu",
         "Name[ko]": "SysMonKubu",
         "Name[nl]": "SysMonKubu",
         "Name[pl]": "SysMonKubu",
@@ -78,5 +80,6 @@
         "Version": "1.0.0",
         "Website": "https://dariochiapperini.dev"
     },
+    "X-Plasma-MainScript": "ui/main.qml",
     "X-Plasma-API-Minimum-Version": "6.0"
 }
